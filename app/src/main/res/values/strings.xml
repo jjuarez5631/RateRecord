@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RateRecord</string>
+
+    <string name="txtSplash">Song Ranking</string>
+
+    <string name="txt">Click play to hear the following songs </string>
+
+
+    <string name="txtSongOne">Welcome to the Jungle</string>
+    <string name="txtSongTwo">Shoot to Thrill </string>
+    <string name="txtSongThree">Immigration Song</string>
+
+    <string name="btnSongOne">Play</string>
+    <string name="btnSongTwo">Play</string>
+    <string name="btnSongThree">Play</string>
+
+    <string name="choiceOne">First Place</string>
+    <string name="choiceTwo">Second Place</string>
+    <string name="choiceThree">Third Place</string>
+
+    <string name="txtDisplay">Rank the three songs. Click done to see song names</string>
+
+    <string-array name="txtRate">
+        <item>Welcome to the Jungle - Guns N' Roses</item>
+        <item>Shoot to Thrill - AC/DC</item>
+        <item>Immigration Song - Led Zeppelin</item>
+    </string-array>
+
+    <string name="btnDone">Done</string>
+
+    <string name="txtSongNameOne">Play Song Three</string>
+    <string name="txtSongNameTwo">Play Song Three</string>
+    <string name="txtSongNameThree">Play Song Three</string>
+
+    <string name="songOne">Song One Image</string>
+    <string name="songTwo">Song Two Image</string>
+    <string name="songThree">Song Three Image</string>
+
+</resources>
